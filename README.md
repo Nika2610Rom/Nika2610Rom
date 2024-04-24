@@ -17,4 +17,3 @@
 
 -[Bug Reports](https://github.com/Nika2610Rom/Bug-Reports)
 
-Follow me
