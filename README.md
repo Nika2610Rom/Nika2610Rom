@@ -12,6 +12,8 @@
 ![GITHUB](https://img.shields.io/badge/GITHUB-black?=for-the-badge&logo=GITHUB)
 ![DEVTOOLS](https://img.shields.io/badge/DevTools-greenyellow?=for-the-badge&logo=DeVTools)
 
-Testing Documentation
+### Test Documentation
+-[Test cases](https://github.com/Nika2610Rom/Test-cases)
+
 
 Follow me
