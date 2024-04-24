@@ -15,5 +15,6 @@
 ### Test Documentation
 -[Test Cases](https://github.com/Nika2610Rom/Test-Cases)
 
+-[Bug Reports](https://github.com/Nika2610Rom/Bug-Reports)
 
 Follow me
