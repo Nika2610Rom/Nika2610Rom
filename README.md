@@ -13,7 +13,7 @@
 ![DEVTOOLS](https://img.shields.io/badge/DevTools-greenyellow?=for-the-badge&logo=DeVTools)
 
 ### Test Documentation
--[Test cases](https://github.com/Nika2610Rom/Test-cases)
+-[Test Cases](https://github.com/Nika2610Rom/Test-Cases)
 
 
 Follow me
